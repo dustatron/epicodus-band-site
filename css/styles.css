@@ -1,13 +1,21 @@
+body {
+  background-color: crimson;
+}
+
 .images img{
 width: 400px;
+display: block;
 /* display: block; */
 }
 h1 {
   text-align: center;
+  font-size: 65px;
 }
 
 .images {
   text-align: center;
+  float: right;
+  
 }
 
 .shows {
