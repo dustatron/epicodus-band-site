@@ -1,0 +1,23 @@
+.images img{
+width: 400px;
+/* display: block; */
+}
+h1 {
+  text-align: center;
+}
+
+.images {
+  text-align: center;
+}
+
+.shows {
+  float: left;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  height: 50vh;
+}
+
+ul {
+  list-style: none;
+}
